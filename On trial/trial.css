@@ -1,0 +1,26 @@
+.tinDog{
+    margin: 5px 0px 50px 2px;
+    color: white;
+    background-color: crimson;
+    height: 300px;
+    width: 1000px;
+}
+/* .tinDog a img{
+    align-self: auto;
+} */
+.tinnDog {
+    transform: rotate(30deg);
+    transform-origin: right;
+    
+}
+.tinDog ul,li{
+    display: inline-block;
+    text-align:right;
+}
+table,tr.th,td{
+    border-spacing: 50px;
+    text-align: center;
+}
+table p{
+    text-align: center;
+}

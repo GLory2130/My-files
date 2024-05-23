@@ -1,0 +1,31 @@
+Body
+{
+	background-image: "C:\Users\Gee\Desktop\web desgn\html\css\images\g8.jpg";
+}
+
+p
+{
+	color: blue;
+}
+
+label
+
+{
+	color: blue;
+}
+
+.h1
+{
+	color: blue;
+}
+h2
+{
+	color: yellow;
+}
+
+Input:focus{
+	border: 3px solid red;
+}
+img{
+	border-radius: 100%;
+}
